@@ -54,6 +54,12 @@ body
 .navigation li.active::before
 {
     background: #29fd5e;
+    box-shadow: 0 0 5px #29fd5e,
+    0 0 10px #29fd5e,
+    0 0 20px #29fd5e,
+    0 0 30px #29fd5e,
+    0 0 40px #29fd5e,
+    0 0 50px #29fd5e;
 }
 .navigation li a
 {
